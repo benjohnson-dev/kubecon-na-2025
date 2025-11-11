@@ -12,6 +12,6 @@ metadata:
   name: demo-app-01
   namespace: demo-app
 spec:
-  image: nginx
+  image: nginx2
   crossplane:
     compositionUpdatePolicy: Automatic
